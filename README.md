@@ -5,7 +5,7 @@
 <h1 align="center">Hello! I'm Abdullah Imran</h1>
 <h3 align="center">AI/ML Enthusiast & Aspiring Data Scientist</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="1000" height="350" alt="Welcome GIF"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="900" height="350" alt="Welcome GIF"/>
 </div>
 
 ---
@@ -59,6 +59,41 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirAb-77&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </a>
 </div>
+
+<!-- My Learning Journey Section -->
+<h3 align="center">My Learning Journey</h3>
+<p align="center">Currently enrolled in various professional certificates and courses to enhance my skills:</p>
+<div align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin: 10px; font-size: 1.2em;"><strong>Google Data Analytics Professional Certificate</strong></li>
+    <li style="margin: 10px; font-size: 1.2em;"><strong>Microsoft Power BI Data Analyst Professional Certificate</strong></li>
+    <li style="margin: 10px; font-size: 1.2em;"><strong>IBM Data Science Professional Certificate</strong></li>
+    <li style="margin: 10px; font-size: 1.2em;"><strong>WorldQuant University Applied Data Science Lab</strong></li>
+    <li style="margin: 10px; font-size: 1.2em;"><strong>Google Advanced Data Analytics</strong></li>
+  </ul>
+</div>
+
+---
+
+<!-- Stats Section with Clear Visual Design -->
+<h3 align="center">My GitHub Stats</h3>
+<div align="center">
+  <p>Here’s a snapshot of my GitHub activity:</p>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MirAb-77&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirAb-77&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
+  </a>
+</div>
+
+---
+
+<!-- Footer Section -->
+<h3 align="center">Thank You for Visiting!</h3>
+<p align="center">Feel free to reach out if you'd like to connect or collaborate!</p>
+<p align="center">✨ Let's build something amazing together! ✨</p>
 
 ---
 
