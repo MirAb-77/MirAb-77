@@ -2,7 +2,7 @@
 ---
 
 <!-- Introduction Section with Polished Text and Clear Contact Info -->
-<h1 align="center">Hello! I'm Abdullah Imran</h1>
+<h1 align="center">Hello! I'm Abdullah Imran Mir</h1>
 <h3 align="center">AI/ML Enthusiast & Aspiring Data Scientist</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="900" height="350" alt="Welcome GIF"/>
