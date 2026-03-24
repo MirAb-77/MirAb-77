@@ -22,7 +22,7 @@
 
 **Connect with Me**  
 - **LinkedIn:** [Abdullah Imran](https://www.linkedin.com/in/abdullah-mir-211658230/)
-- **Email:** abdullahimran017@gmail.com
+- **Email:** abdullahmran96@gmail.com
 - **Phone:** +923164009363
 
 ---
