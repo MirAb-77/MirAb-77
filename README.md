@@ -21,9 +21,11 @@
 - Striving to make a mark in the world of AI through continuous learning and hands-on projects.
 
 **Connect with Me**  
-- **LinkedIn:** [Abdullah Imran](https://www.linkedin.com/in/abdullah-mir-211658230/)
-- **Email:** abdullahmran96@gmail.com
-- **Phone:** +923164009363
+
+* **LinkedIn Profile:** [https://www.linkedin.com/in/abdullah-mir-211658230/](https://www.linkedin.com/in/abdullah-mir-211658230/)
+* **Email Address:** [abdullahmran96@gmail.com](mailto:abdullahmran96@gmail.com)
+* **Contact Number:** +92 316 400 9363
+* **Portfolio & Projects:** [https://high-end-aesthetic--abdullahimran06.replit.app/](https://high-end-aesthetic--abdullahimran06.replit.app/)
 
 ---
 
