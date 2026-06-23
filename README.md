@@ -1,8 +1,9 @@
-<!-- Header -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abdullah%20Imran&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Things%20That%20Ship&descAlignY=58&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1a1a2e,100:16213e&height=220&section=header&text=Abdullah%20Imran&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Things%20That%20Ship&descAlignY=58&descColor=8b949e&descSize=16" width="100%"/>
 </div>
 
+<!-- BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-mir-211658230/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,41 +14,100 @@
   <a href="https://github.com/MirAb-77">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MirAb-77&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MirAb-77&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
 
 ---
 
-## 🧠 Who I Am
+## ◈ &nbsp;Identity
 
 ```python
 class Abdullah:
     name       = "Abdullah Imran"
     role       = "Data Scientist & AI/ML Engineer"
-    location   = "Lahore, Pakistan 🇵🇰"
-    education  = "BS Data Science @ UMT (3.76 GPA) — Dean's Merit ×3"
-    mantra     = "Most ML models never leave a notebook. Mine do."
+    location   = "Lahore, Pakistan"
+    education  = "BS Data Science @ UMT — 3.76 GPA · Dean's Merit ×3"
+    fellowship = "AI/ML @ UET × DevSinc — 30% pipeline speedup delivered"
 
-    deployed_systems = [
-        "MalVision AI   → 98% accuracy malware detection",
-        "VITA           → Multimodal clinical AI (LLMs + RAG + CV)",
-        "Cheatify AI    → Real-time proctoring at 45ms latency",
-        "IntelliFall AI → IoT fall detection, 97% recall",
-        "FraudShield AI → Explainable fraud pipeline, 89% accuracy",
-        "QuickByte AI   → Full-stack LLM nutrition assistant",
+    # 6 live, deployed AI systems — not notebook demos
+    shipped = [
+        "MalVision AI   → 98% malware detection accuracy",
+        "VITA           → multimodal clinical LLM + RAG assistant",
+        "Cheatify AI    → YOLOv8 real-time proctoring @ 45ms latency",
+        "IntelliFall AI → IoT fall detection, 97% recall · 96% precision",
+        "FraudShield AI → explainable fraud pipeline, 89% accuracy",
+        "QuickByte AI   → full-stack LLM nutrition app, live users",
     ]
 
     currently_building = "Cursor-like AI coding assistant (VS Code extension)"
-    open_to            = "AI/ML & Software Engineering roles in Lahore"
+    open_to            = "AI/ML & Software Engineering roles · Lahore"
+    mantra             = "Most ML models never leave a notebook. Mine do."
 ```
 
 ---
 
-## ⚡ What I Bring
+## ⬡ &nbsp;Stats at a glance
 
 <div align="center">
+
+| ⬡ 6 Live Systems | ◎ 98% Best Accuracy | ◇ 3.76 GPA | ⬟ Dean's Merit ×3 |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## ⬠ &nbsp;ML Pipeline — How I work
+
+```mermaid
+flowchart LR
+    A([Raw Data]) --> B([EDA & Cleaning])
+    B --> C([Feature Engineering])
+    C --> D([Model Training])
+    D --> E([Evaluation & Tuning])
+    E --> F{Meets bar?}
+    F -- No --> C
+    F -- Yes --> G([Deploy])
+    G --> H([Live System])
+    H --> I([Monitor & Iterate])
+    I --> B
+
+    style A fill:#0d1117,stroke:#58a6ff,color:#e6edf3
+    style G fill:#0d1117,stroke:#3fb950,color:#e6edf3
+    style H fill:#0d1117,stroke:#3fb950,color:#e6edf3
+    style F fill:#0d1117,stroke:#f78166,color:#e6edf3
+```
+
+> ↺ &nbsp;Every model I ship stays alive — monitor → retrain loop is part of the build.
+
+---
+
+## ◎ &nbsp;Skill radar
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+quadrantChart
+    title Skill coverage
+    x-axis Research --> Production
+    y-axis Classical ML --> Deep AI
+    quadrant-1 Core strength
+    quadrant-2 Applied Research
+    quadrant-3 Data Foundation
+    quadrant-4 Engineering
+    Computer Vision: [0.85, 0.90]
+    LLMs & RAG: [0.80, 0.88]
+    Deep Learning: [0.75, 0.92]
+    MLOps: [0.88, 0.55]
+    Data Engineering: [0.82, 0.45]
+    Analytics & BI: [0.78, 0.35]
+    Deployment: [0.90, 0.60]
+```
+
+---
+
+## ⬟ &nbsp;What I bring
 
 ```mermaid
 mindmap
@@ -58,7 +118,7 @@ mindmap
       Model training & eval
       Deployment & monitoring
     Computer Vision
-      CNNs
+      CNNs · ResNet · EfficientNet
       YOLOv8 object detection
       OpenCV pipelines
       Real-time inference
@@ -66,49 +126,46 @@ mindmap
       RAG systems
       Prompt engineering
       LLM API integration
-      Multimodal AI
-    MLOps & Tools
-      MLflow
-      FastAPI
-      Streamlit
+      Multimodal AI pipelines
+    MLOps & Tooling
+      MLflow experiment tracking
+      FastAPI serving
+      Streamlit deployment
       CI/CD pipelines
     Analytics
       Power BI dashboards
       Statistical modeling
       EDA & visualization
+      XGBoost · scikit-learn
 ```
-
-</div>
 
 ---
 
-## 🚀 Featured Projects
+## ◇ &nbsp;Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ MalVision AI
-**Malware Intelligence Platform**
+### ⬡ &nbsp;MalVision AI &nbsp;—&nbsp; Malware Intelligence Platform
 
-Converts PE executable binaries into visual representations, then runs CNN-based classification across 10 malware families.
+CNN pipeline converting PE executable binaries into image representations for automated malware classification across 10 families.
 
 - **98% accuracy** on PE file detection
 - **88% F1 score** on image-based detection
-- Stack: `Python` `TensorFlow` `Keras` `OpenCV` `Streamlit`
+- `Python` `TensorFlow` `Keras` `OpenCV` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://malvision99.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 VITA — Clinical AI Assistant
-**Multimodal Decision Support**
+### ◈ &nbsp;VITA &nbsp;—&nbsp; Multimodal Clinical AI
 
-Combines computer vision, LLMs, and RAG for real-time symptom analysis and medical information retrieval. Evaluated on 25 sample cases.
+Combines LLMs, RAG, and computer vision for real-time symptom analysis and medical information retrieval. Evaluated on 25 sample cases.
 
 - Full multimodal pipeline: image + text + knowledge base
-- Stack: `Python` `LLMs` `RAG` `Computer Vision` `Streamlit`
+- `Python` `LLMs` `RAG` `Computer Vision` `Streamlit`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MirAb-77/AI-Doctor-2.0)
 
@@ -117,26 +174,24 @@ Combines computer vision, LLMs, and RAG for real-time symptom analysis and medic
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Cheatify AI
-**Real-Time Exam Proctoring**
+### ◎ &nbsp;Cheatify AI &nbsp;—&nbsp; Real-Time Proctoring
 
-YOLOv8-based proctoring engine detecting suspicious behaviour in real time.
+YOLOv8-based proctoring engine detecting suspicious behaviour during online exams with production-grade latency.
 
 - **45ms** inference latency
-- Stack: `Python` `YOLOv8` `OpenCV` `JavaScript` `Netlify`
+- `Python` `YOLOv8` `OpenCV` `JavaScript` `Netlify`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://cheatifyexam.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚨 IntelliFall AI
-**Smart Fall Detection & Emergency Response**
+### ⬟ &nbsp;IntelliFall AI &nbsp;—&nbsp; Smart Fall Detection
 
-IoT-integrated real-time fall detection for elderly care with automated emergency alerts.
+IoT-integrated real-time fall detection for elderly care with automated emergency response triggering.
 
 - **97% recall · 96% precision**
-- Stack: `Python` `YOLOv8` `OpenCV` `IoT`
+- `Python` `YOLOv8` `OpenCV` `IoT`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MirAb-77/IntelliFall-Real-Time-Human-Fall-Detection-Using-Computer-Vision)
 
@@ -145,26 +200,24 @@ IoT-integrated real-time fall detection for elderly care with automated emergenc
 <tr>
 <td width="50%" valign="top">
 
-### 💳 FraudShield AI
-**Real-Time Financial Fraud Detection**
+### ⬠ &nbsp;FraudShield AI &nbsp;—&nbsp; Fraud Detection
 
-Explainable fraud detection pipeline surfaced via interactive Power BI dashboards.
+Explainable fraud detection pipeline with feature importance surfaced via interactive Power BI dashboards.
 
 - **89% accuracy** on real-world-like dataset
-- Stack: `Python` `XGBoost` `scikit-learn` `Power BI`
+- `Python` `XGBoost` `scikit-learn` `Power BI`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MirAb-77/Credit-Card-Fraud)
 
 </td>
 <td width="50%" valign="top">
 
-### 🥗 QuickByte AI
-**Personalized Nutrition Intelligence**
+### ◇ &nbsp;QuickByte AI &nbsp;—&nbsp; Nutrition Intelligence
 
-Full-stack LLM-powered nutrition assistant generating personalized meal plans via prompt-engineered API calls.
+Full-stack LLM-powered assistant generating personalised meal plans via prompt-engineered API calls — live and in daily use.
 
-- Live and usable by real users daily
-- Stack: `JavaScript` `LLM APIs` `Netlify` `Prompt Engineering`
+- Real users · fully deployed
+- `JavaScript` `LLM APIs` `Netlify` `Prompt Engineering`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://zesty-crepe-1f434a.netlify.app/)
 
@@ -174,7 +227,7 @@ Full-stack LLM-powered nutrition assistant generating personalized meal plans vi
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ &nbsp;Tech stack
 
 <div align="center">
 
@@ -188,7 +241,7 @@ Full-stack LLM-powered nutrition assistant generating personalized meal plans vi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Deployment & Tools**
+**Deployment & Engineering**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -198,7 +251,7 @@ Full-stack LLM-powered nutrition assistant generating personalized meal plans vi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Analytics & Visualization**
+**Analytics & Visualisation**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -207,67 +260,49 @@ Full-stack LLM-powered nutrition assistant generating personalized meal plans vi
 
 ---
 
-## 📊 GitHub Stats
+## ⬡ &nbsp;GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirAb-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirAb-77&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MirAb-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030712&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirAb-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=58a6ff&text_color=e6edf3" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirAb-77&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirAb-77&theme=tokyonight&hide_border=true&background=030712&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" width="55%"/>
 </div>
 
 ---
 
-## 🏆 Certifications
+## ⬟ &nbsp;Certifications
 
 ```
-IBM  ──────────────  Generative AI Engineering with LLMs
-IBM  ──────────────  Data Science Professional Certificate
-DeepLearning.AI  ──  Deep Learning Specialization
-DataCamp  ─────────  AI Engineer for Data Scientists
-DataCamp  ─────────  Certified Data Scientist
-Microsoft  ────────  Power BI Data Analyst
-Google  ───────────  Advanced Data Analytics
-```
-
----
-
-## 📈 ML Pipeline — How I Work
-
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[EDA & Cleaning]
-    B --> C[Feature Engineering]
-    C --> D[Model Training]
-    D --> E[Evaluation & Tuning]
-    E --> F{Good enough?}
-    F -- No --> C
-    F -- Yes --> G[Deployment]
-    G --> H[Live System]
-    H --> I[Monitor & Iterate]
-    I --> B
-
-    style A fill:#1a1a2e,stroke:#58a6ff,color:#e6edf3
-    style H fill:#0f3460,stroke:#58a6ff,color:#e6edf3
-    style G fill:#16213e,stroke:#3fb950,color:#e6edf3
+⬡  IBM  ────────────────────  Generative AI Engineering with LLMs
+⬡  IBM  ────────────────────  Data Science Professional Certificate
+◈  DeepLearning.AI  ────────  Deep Learning Specialization
+◎  DataCamp  ───────────────  AI Engineer for Data Scientists
+◎  DataCamp  ───────────────  Certified Data Scientist
+⬠  Microsoft  ──────────────  Power BI Data Analyst
+◇  Google  ─────────────────  Advanced Data Analytics
 ```
 
 ---
 
-## 🌱 Currently
+## ◎ &nbsp;Currently
 
--  Building a **Cursor-like AI coding assistant** — VS Code extension backed by FastAPI + Gemini/Groq/OpenRouter
--  Actively open to **AI/ML & Software Engineering roles** in Lahore
--  Going deep on **production ML system design** and **LLM agent architectures**
+> **⬡ Building:** Cursor-like AI coding assistant — VS Code extension backed by FastAPI + Gemini / Groq / OpenRouter
+>
+> **◈ Open to:** AI/ML & Software Engineering roles in Lahore
+>
+> **◇ Going deep on:** Production ML system design · LLM agent architectures · VS Code extension APIs
 
 ---
 
+<!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20that%20matters&fontSize=20&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:030712&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters&fontSize=18&fontColor=58a6ff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <b>mir.abdullah.701@gmail.com</b> · Lahore, Pakistan
+  <b>mir.abdullah.701@gmail.com</b> &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp;
+  <a href="https://github.com/MirAb-77">github.com/MirAb-77</a>
 </div>
