@@ -84,7 +84,8 @@ flowchart LR
 
 ## ⬟ &nbsp; K\Skill radar
 
-mermaid
+
+```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
 
@@ -102,6 +103,8 @@ AI --> LLM[LLMs & RAG]
 
 ENG --> MLOPS[MLOps]
 ENG --> DEPLOY[Deployment Systems]
+
+```
 
 
 ## ⬟ &nbsp;What I bring
