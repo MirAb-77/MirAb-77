@@ -84,28 +84,32 @@ flowchart LR
 
 ---
 
-## ◎ &nbsp;Skill radar
-
-```mermaid
 %%{init: {'theme': 'dark'}}%%
-quadrantChart
-    title Skill coverage
-    x-axis Research --> Production
-    y-axis Classical ML --> Deep AI
-    quadrant-1 Core strength
-    quadrant-2 Applied Research
-    quadrant-3 Data Foundation
-    quadrant-4 Engineering
-    Computer Vision: [0.85, 0.90]
-    LLMs & RAG: [0.80, 0.88]
-    Deep Learning: [0.75, 0.92]
-    MLOps: [0.88, 0.55]
-    Data Engineering: [0.82, 0.45]
-    Analytics & BI: [0.78, 0.35]
-    Deployment: [0.90, 0.60]
-```
+flowchart LR
 
----
+subgraph DF["🟦 Data Foundation"]
+    A1["SQL & Analytics"]
+    A2["Data Engineering"]
+end
+
+subgraph ML["🟩 Machine Learning Core"]
+    B1["Statistics & ML"]
+    B2["Python for DS"]
+end
+
+subgraph AI["🟪 Deep AI Systems"]
+    C1["Deep Learning"]
+    C2["Computer Vision"]
+    C3["LLMs & RAG"]
+end
+
+subgraph ENG["🟧 ML Engineering"]
+    D1["MLOps"]
+    D2["Deployment Systems"]
+end
+
+DF --> ML --> AI --> ENG
+
 
 ## ⬟ &nbsp;What I bring
 
