@@ -1,20 +1,23 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1a1a2e,100:16213e&height=220&section=header&text=Abdullah%20Imran&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Things%20That%20Ship&descAlignY=58&descColor=8b949e&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=220&section=header&text=Abdullah%20Imran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Things%20That%20Ship&descAlignY=58&descColor=b5b5b5&descSize=16" width="100%"/>
 </div>
 
-<!-- BADGES -->
+<!-- BADGES (Monochrome Style) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-mir-211658230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
+
   <a href="mailto:mir.abdullah.701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
+
   <a href="https://github.com/MirAb-77">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MirAb-77&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+
+  <img src="https://komarev.com/ghpvc/?username=MirAb-77&style=for-the-badge&color=2b2b2b&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -82,7 +85,7 @@ flowchart LR
     style F fill:#0d1117,stroke:#f78166,color:#e6edf3
 ```
 
-## ⬟ &nbsp; K\Skill radar
+## ⬟ &nbsp; Skill radar
 
 
 ```mermaid
