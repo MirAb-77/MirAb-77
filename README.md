@@ -25,25 +25,27 @@
 
 ```python
 class Abdullah:
-    name       = "Abdullah Imran"
-    role       = "Data Scientist & AI/ML Engineer"
-    location   = "Lahore, Pakistan"
-    education  = "BS Data Science @ UMT — 3.76 GPA · Dean's Merit ×3"
-    fellowship = "AI/ML @ UET × DevSinc — 30% pipeline speedup delivered"
+    name = "Abdullah Imran"
+    role = "Data Scientist & AI/ML Engineer"
+    location = "Lahore, Pakistan"
+    education = "BS Data Science @ UMT — CGPA 3.76 · Dean's Merit ×3"
 
-    # 6 live, deployed AI systems — not notebook demos
-    shipped = [
-        "MalVision AI   → 98% malware detection accuracy",
-        "VITA           → multimodal clinical LLM + RAG assistant",
-        "Cheatify AI    → YOLOv8 real-time proctoring @ 45ms latency",
-        "IntelliFall AI → IoT fall detection, 97% recall · 96% precision",
-        "FraudShield AI → explainable fraud pipeline, 89% accuracy",
-        "QuickByte AI   → full-stack LLM nutrition app, live users",
+    experience = "AI/ML Fellow @ UET × DevSinc (30% pipeline speedup)"
+
+    shipped_systems = 6
+
+    projects = [
+        "MalVision AI — malware detection system (98% accuracy)",
+        "VITA — multimodal clinical RAG assistant",
+        "Cheatify AI — real-time YOLOv8 proctoring (45ms latency)",
+        "IntelliFall AI — IoT fall detection (97% recall)",
+        "FraudShield AI — explainable fraud pipeline (89% accuracy)",
+        "QuickByte AI — deployed LLM nutrition app",
     ]
 
     currently_building = "Cursor-like AI coding assistant (VS Code extension)"
-    open_to            = "AI/ML & Software Engineering roles · Lahore"
-    mantra             = "Most ML models never leave a notebook. Mine do."
+    open_to = "AI/ML & Software Engineering roles"
+    mindset = "Models should ship, not sit in notebooks"
 ```
 
 ---
@@ -52,7 +54,7 @@ class Abdullah:
 
 <div align="center">
 
-| ⬡ 6 Live Systems | ◎ 98% Best Accuracy | ◇ 3.76 GPA | ⬟ Dean's Merit ×3 |
+| ⬡ 6 Live Systems | Certififed Data Scientist | ◇ 3.76 GPA | Motivated to Lean and Grow 
 |:---:|:---:|:---:|:---:|
 
 </div>
@@ -80,35 +82,26 @@ flowchart LR
     style F fill:#0d1117,stroke:#f78166,color:#e6edf3
 ```
 
-> ↺ &nbsp;Every model I ship stays alive — monitor → retrain loop is part of the build.
+## ⬟ &nbsp; K\Skill radar
 
----
-
+mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
 
-subgraph DF["🟦 Data Foundation"]
-    A1["SQL & Analytics"]
-    A2["Data Engineering"]
-end
+DF[🟦 Data Foundation] --> ML[🟩 Machine Learning] --> AI[🟪 Deep AI Systems] --> ENG[🟧 ML Engineering]
 
-subgraph ML["🟩 Machine Learning Core"]
-    B1["Statistics & ML"]
-    B2["Python for DS"]
-end
+DF --> SQL[SQL & Analytics]
+DF --> DE[Data Engineering]
 
-subgraph AI["🟪 Deep AI Systems"]
-    C1["Deep Learning"]
-    C2["Computer Vision"]
-    C3["LLMs & RAG"]
-end
+ML --> STAT[Statistics & ML]
+ML --> PY[Python DS]
 
-subgraph ENG["🟧 ML Engineering"]
-    D1["MLOps"]
-    D2["Deployment Systems"]
-end
+AI --> DL[Deep Learning]
+AI --> CV[Computer Vision]
+AI --> LLM[LLMs & RAG]
 
-DF --> ML --> AI --> ENG
+ENG --> MLOPS[MLOps]
+ENG --> DEPLOY[Deployment Systems]
 
 
 ## ⬟ &nbsp;What I bring
