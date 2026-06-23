@@ -302,7 +302,7 @@ Full-stack LLM-powered assistant generating personalised meal plans via prompt-e
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters&fontSize=18&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
