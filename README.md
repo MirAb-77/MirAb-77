@@ -258,9 +258,9 @@ flowchart LR
 
 ## 🌱 Currently
 
-- 🔨 Building a **Cursor-like AI coding assistant** — VS Code extension backed by FastAPI + Gemini/Groq/OpenRouter
-- 🎯 Actively open to **AI/ML & Software Engineering roles** in Lahore
-- 📚 Going deep on **production ML system design** and **LLM agent architectures**
+-  Building a **Cursor-like AI coding assistant** — VS Code extension backed by FastAPI + Gemini/Groq/OpenRouter
+-  Actively open to **AI/ML & Software Engineering roles** in Lahore
+-  Going deep on **production ML system design** and **LLM agent architectures**
 
 ---
 
