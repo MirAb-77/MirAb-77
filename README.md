@@ -29,7 +29,7 @@
 ```python
 class Abdullah:
     name = "Abdullah Imran"
-    role = "Data Scientist & AI/ML Engineer"
+    role = "Associate Data Scientist "
     location = "Lahore, Pakistan"
     education = "BS Data Science @ UMT — CGPA 3.76 · Dean's Merit ×3"
 
