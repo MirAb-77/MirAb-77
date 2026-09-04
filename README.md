@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
 
-  <a href="mailto:mir.abdullah.701@gmail.com">
+  <a href="mailto:abdullahmran96@gmail.com">
     <img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
 
@@ -36,8 +36,8 @@ class Abdullah:
     experience = "Junior Ml Engineer @Sunsprinkle, AI/Ml Intern @SafexXOlutions  , AI Fellowhsip @ACM UetxDevinc"
     shipped_systems = 6
 
-    currently_building = "Cursor-like AI coding assistant (VS Code extension)"
-    open_to = "AI/ML & Software Engineering roles"
+    currently_building = "Hospital Procurement & Inventory Intelligence — AI-Powered Procurement Automation"
+    open_to = "AI/ML , Data Science & Software Engineering roles"
     mindset = "Models should ship, not sit in notebooks"
 ```
 
