@@ -29,7 +29,6 @@
 ```python
 class Abdullah:
     name = "Abdullah Imran"
-    role = "Associate Data Scientist "
     location = "Lahore, Pakistan"
     education = "BS Data Science @ UMT — CGPA 3.76 · Dean's Merit ×3"
 
@@ -38,7 +37,7 @@ class Abdullah:
 
     currently_building = "Hospital Procurement & Inventory Intelligence — AI-Powered Procurement Automation"
     open_to = "AI/ML , Data Science & Software Engineering roles"
-    mindset = "Models should ship, not sit in notebooks"
+    mindset = "Products should ship, not sit in notebooks"
 ```
 
 ---
