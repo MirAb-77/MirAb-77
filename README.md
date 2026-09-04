@@ -33,18 +33,9 @@ class Abdullah:
     location = "Lahore, Pakistan"
     education = "BS Data Science @ UMT — CGPA 3.76 · Dean's Merit ×3"
 
-    experience = "AI/ML Fellow @ UET × DevSinc (30% pipeline speedup)"
-
+    experience = "Junior Ml Engineer @Sunsprinkle"
+,AI.Ml Intern @SafexXOlutions  , AI Fellowhsip @ACM UetxDevinc
     shipped_systems = 6
-
-    projects = [
-        "MalVision AI — malware detection system (98% accuracy)",
-        "VITA — multimodal clinical RAG assistant",
-        "Cheatify AI — real-time YOLOv8 proctoring (45ms latency)",
-        "IntelliFall AI — IoT fall detection (97% recall)",
-        "FraudShield AI — explainable fraud pipeline (89% accuracy)",
-        "QuickByte AI — deployed LLM nutrition app",
-    ]
 
     currently_building = "Cursor-like AI coding assistant (VS Code extension)"
     open_to = "AI/ML & Software Engineering roles"
